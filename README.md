@@ -9,10 +9,8 @@ Este repositório contém um sistema básico para gerenciamento de um restaurant
 
 ## Funcionalidades
 
-- Cadastro de clientes
-- Registro de pedidos
-- Gerenciamento de mesas
-- Emissão de faturas
+- Cadastro de restaurantes
+- Avaliação de Clientes
 
 ## Tecnologias Utilizadas
 
